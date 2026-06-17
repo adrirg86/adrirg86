@@ -33,11 +33,11 @@ Scripting        ██████░░░░░  Bash · Python (básico)
 
 ## Plataformas activas
 
-| Plataforma | Actividad |
-|-----------|-----------|
-| 🟢 **HackTheBox** | Máquinas activas + write-ups documentados |
-| 🟢 **DockerLabs** | Resoluciones paso a paso |
-| 🟢 **TryHackMe** | Salas completadas y writeups |
+| Herramienta / Proyecto | Descripción |
+| :--- | :--- |
+| 🟢 **[HackTheBox](https://github.com/adrirg86/HackTheBox)** | Máquinas activas + write-ups documentados |
+| 🟢 **[DockerLabs](https://github.com/adrirg86/DockerLabs)** | Resoluciones paso a paso y despliegue de laboratorios |
+| 🟢 **[TryHackMe](https://github.com/adrirg86/TryHackMe)** | Salas completadas y writeups con metodología clara |
 | 🐍 **[Python para Ciberseguridad](https://github.com/adrirg86/Fundamentos-de-Python-para-Ciberseguridad)** | Scripts, herramientas y automatizaciones de seguridad (Redes, Web, Criptografía) |
 
 ## Repositorios
