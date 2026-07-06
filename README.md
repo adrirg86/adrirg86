@@ -1,5 +1,5 @@
 <!-- Temporal -->
-> ⏸️ **Repositorio en pausa** — Estoy de vacaciones hasta el 6 de julio.
+> ⏸️ **Repositorio en pausa** — Estoy de vacaciones hasta el 8 de julio.
 > Continuaré añadiendo contenido a partir de esa fecha. ¡Gracias por pasarte!
 
 <!-- Aqui ya normal -->
