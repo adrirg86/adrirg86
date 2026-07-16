@@ -1,4 +1,17 @@
 
+<!-- Temporal -->
+
+🚧 **Estado actual de los proyectos**
+
+> Los proyectos de máquinas de laboratorio (DockerLabs, HackTheBox, TryHackMe) quedan **pausados hasta después del verano**.
+
+Actualmente centrado en dos repos en paralelo:
+- 🐚 **Bash scripting** — automatización aplicada a ciberseguridad.
+- 📚 **Fundamentos de ciberseguridad** — apuntes técnicos (en fase de borrador).
+
+Los writeups y `Utilidades_CLI.md` se retoman en cuanto esté encarrilado esto.
+
+***
 <!-- Aqui ya normal -->
 
 <div align="center">
