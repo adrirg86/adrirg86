@@ -54,6 +54,8 @@ Scripting        ██████░░░░░  Bash · Python (básico)
 | 🟢 **[DockerLabs](https://github.com/adrirg86/DockerLabs)** | Resoluciones paso a paso y despliegue de laboratorios |
 | 🟢 **[TryHackMe](https://github.com/adrirg86/TryHackMe)** | Salas completadas y writeups con metodología clara |
 | 🐍 **[Python para Ciberseguridad](https://github.com/adrirg86/Fundamentos-de-Python-para-Ciberseguridad)** | Scripts, herramientas y automatizaciones de seguridad (Redes, Web, Criptografía) |
+| 🛡️ **[Fundamentos de Ciberseguridad](https://github.com/adrirg86/Fundamentos-de-Ciberseguridad/tree/main)** | Conceptos clave, metodologías de análisis y principios esenciales de la seguridad |
+
 
 ## Repositorios
 
@@ -69,6 +71,8 @@ Salas y retos de TryHackMe documentados con metodología clara.
 ### 🐍 [Fundamentos de Python para Ciberseguridad](https://github.com/adrirg86/Fundamentos-de-Python-para-Ciberseguridad)
 Scripts, herramientas y automatizaciones orientadas al desarrollo de herramientas de seguridad, redes y criptografía aplicadas al Pentesting y la defensa activa.
 
+### 🛡️ [Fundamentos de Ciberseguridad](https://github.com/adrirg86/Fundamentos-de-Ciberseguridad/)
+Recopilación de conceptos base, arquitectura de seguridad, protocolos y metodologías fundamentales en ciberseguridad.
 
 ## Stack de trabajo
 
