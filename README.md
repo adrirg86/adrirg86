@@ -1,15 +1,12 @@
 
 <!-- Temporal -->
+## 🚧 Estado actual de los proyectos
 
-🚧 **Estado actual de los proyectos**
+🎯 **Compromiso personal:** Subida diaria de 1 máquina o laboratorio redactado paso a paso (findes de descanso), ampliando progresivamente los fundamentos de ciberseguridad.
 
-🎯 **Compromiso personal:** Subida diaria de **1 máquina o laboratorio** redactado paso a paso, ampliando progresivamente los **fundamentos de ciberseguridad**.
+📌 Actualmente el ritmo de commits es más constante en el día a día que en grandes cambios estructurales del repo, ya que este curso académico estoy centrado en obtener el título de **ASIR** y la certificación **PCEP de Cisco** — el repo se mantiene activo, pero las modificaciones grandes quedarán para cuando cierre esa etapa.
 
-Actualmente centrado en dos repos en paralelo:
-1. - 📚 **Fundamentos de ciberseguridad** — apuntes técnicos (en fase de borrador).
-2. - 🐚 **Bash scripting** — automatización aplicada a ciberseguridad.
 
-   
 ***
 <!-- Aqui ya normal -->
 
