@@ -2,7 +2,7 @@
 <!-- Temporal -->
 ## 🚧 Estado actual de los proyectos
 
-🎯 **Compromiso personal:** Subida miercoles de 2 máquinas  o laboratorio redactado paso a paso , ampliando progresivamente los fundamentos de ciberseguridad.
+🎯 **Compromiso personal:** Subida jueves de 1/2 máquinas  o laboratorio redactado paso a paso , ampliando progresivamente los fundamentos de ciberseguridad.
 
 📌 Actualmente el ritmo de commits es más constante en el día a día que en grandes cambios estructurales del repo, ya que este curso académico estoy centrado en obtener el título de **ASIR** y la certificación **PCEP de Cisco** — el repo se mantiene activo, pero las modificaciones grandes quedarán para cuando cierre esa etapa.
 
